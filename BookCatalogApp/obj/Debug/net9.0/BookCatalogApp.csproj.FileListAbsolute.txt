@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\bin\Debug\net9.0\BookCatalogApp.exe
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\bin\Debug\net9.0\BookCatalogApp.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\bin\Debug\net9.0\BookCatalogApp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\bin\Debug\net9.0\BookCatalogApp.dll
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\bin\Debug\net9.0\BookCatalogApp.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\obj\Debug\net9.0\BookCatalogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\obj\Debug\net9.0\BookCatalogApp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\obj\Debug\net9.0\BookCatalogApp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\obj\Debug\net9.0\BookCatalogApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\obj\Debug\net9.0\BookCatalogApp.dll
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\obj\Debug\net9.0\refint\BookCatalogApp.dll
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\obj\Debug\net9.0\BookCatalogApp.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\obj\Debug\net9.0\BookCatalogApp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\homework\BookCatalogApp\obj\Debug\net9.0\ref\BookCatalogApp.dll

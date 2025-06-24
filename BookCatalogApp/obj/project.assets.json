@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\homework\\BookCatalogApp\\BookCatalogApp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\Design-Patterns\\BookCatalogApp\\BookCatalogApp.csproj",
       "projectName": "BookCatalogApp",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\homework\\BookCatalogApp\\BookCatalogApp.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\Design-Patterns\\BookCatalogApp\\BookCatalogApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\homework\\BookCatalogApp\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\Design-Patterns\\BookCatalogApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
